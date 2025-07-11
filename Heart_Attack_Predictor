@@ -1,3 +1,4 @@
+#for checking a model download "heartattack1_data.csv" file  
 import pandas as pd
 import numpy as np
 import joblib
