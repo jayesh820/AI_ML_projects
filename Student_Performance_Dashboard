@@ -1,4 +1,5 @@
 #📚 AI-Powered Student Performance Dashboard
+#use a "studentdata.csv" file for check the model
 import streamlit as st
 import pandas as pd
 import numpy as np
